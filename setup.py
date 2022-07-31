@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='fairdetect-team-c',
+setup(name='fairdetectteamc',
       version='0.1',  # Development release
       description='FairDetect class to detect bias, demonstrated by Team C. There are improvements included along with docstrings. ',
       url='https://github.com/juliangaona/fairdetect_c',
